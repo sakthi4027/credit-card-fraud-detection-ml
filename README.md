@@ -82,7 +82,7 @@ Aspiring AI Developer
 
 ---
 
-## ⭐ Future Improvements
+## Future Improvements
 
 * Improve recall using threshold tuning
 * Try advanced models like XGBoost
